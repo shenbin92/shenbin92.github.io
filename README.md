@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sean Pages
 
 You can use the [editor on GitHub](https://github.com/shenbin92/shenbin92.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
